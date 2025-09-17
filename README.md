@@ -3,7 +3,7 @@
 
 Hi, I'm Lee Xiau Yeen. I am a former educator who has developed a strong passion for transforming data into actionable insights. My enthusiasm for data analysis has inspired me to pursue a new direction in my professional journey. 
 
-# *Career Transition*
+*Career Transition*
 Driven by my interest in working with data, I decided to take a significant step towards my goal by enrolling in the LSE Data Analytic Career Accelerator programme. This experience allowed me to gain vital skills and practical knowledge that are essential for a data analyst.
 
 
